@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**adam-dziuk/adam-dziuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adam. I'm a software engineer focused on web technologies.
 
-Here are some ideas to get you started:
+Mainly working with Laravel ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Laravel Packages
+
+* **[laravel-agent-cost](https://github.com/adam-dziuk/laravel-agent-cost)** — Calculate AI costs for Laravel AI SDK responses using up-to-date model pricing.
+
+### CLI Tools
+
+* **[noder](https://github.com/adam-dziuk/noder)** — Project structure manager for Express applications.
+* **[cli-portfolio-tracker](https://github.com/adam-dziuk/cli-portfolio-tracker)** — Terminal portfolio tracker that benchmarks your returns against the S&P 500 TR.
