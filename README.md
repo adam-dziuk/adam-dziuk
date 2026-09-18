@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Adam. I'm a software engineer focused on web technologies.
+My name is Adam. I'm a software engineer focused on backend and web technologies.
 
 Mainly working with Laravel ❤️
 
