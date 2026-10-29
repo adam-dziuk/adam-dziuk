@@ -9,7 +9,7 @@ Mainly working with Laravel ❤️
 ### Laravel Packages
 
 * **[laravel-agent-cost](https://github.com/adam-dziuk/laravel-agent-cost)** — Calculate AI costs for Laravel AI SDK responses using up-to-date model pricing.
-* **[laravel-ksef](https://github.com/adam-dziuk/laravel-ksef)** — KSeF integration for Laravel applications. (MVP in progress)
+* **[laravel-phone-login](https://github.com/adam-dziuk/laravel-phone-login)** — Opinionated, passwordless users entity for Laravel applications. (contributions welcome)
 
 ### CLI Tools
 
