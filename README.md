@@ -13,7 +13,6 @@ Mainly working with Laravel ❤️
 
 ### CLI Tools
 
-* **[noder](https://github.com/adam-dziuk/noder)** — Project structure manager for Express applications.
 * **[cli-portfolio-tracker](https://github.com/adam-dziuk/cli-portfolio-tracker)** — Terminal portfolio tracker that benchmarks your returns against the S&P 500 TR.
 
 ### Claude Code Skills
